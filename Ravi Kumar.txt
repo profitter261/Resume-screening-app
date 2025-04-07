@@ -1,0 +1,40 @@
+Ravi Kumar  
+Email: ravikumar@example.com | Phone: +91-9876543210  
+LinkedIn: linkedin.com/in/ravikumar | Location: Bangalore, India
+
+Objective  
+Experienced and certified Network Security Engineer with over 5 years of experience in designing, implementing, and maintaining secure network systems. Adept at configuring firewalls, VPNs, and intrusion detection systems (IDS/IPS). Seeking to leverage my technical and analytical skills in a challenging cybersecurity role.
+
+Skills  
+• Network Security • Firewall Configuration (Cisco ASA, Palo Alto)  
+• IDS/IPS • SIEM Tools (Splunk, QRadar)  
+• TCP/IP, DNS, DHCP • VPN Technologies (IPSec, SSL)  
+• Penetration Testing • Vulnerability Assessment  
+• Scripting: Python, Bash • Operating Systems: Windows, Linux  
+• Certifications: CEH, CCNP Security  
+
+Professional Experience  
+
+Network Security Engineer  
+XYZ Technologies Pvt. Ltd., Bangalore | Mar 2020 – Present  
+- Implemented network segmentation and firewall rules to reduce attack surface by 30%  
+- Configured and monitored SIEM solutions to detect and respond to security incidents  
+- Managed SSL VPNs and remote access solutions during COVID-19 transition  
+- Conducted quarterly vulnerability assessments and applied remediation measures  
+
+Security Analyst  
+ABC Infosec Solutions, Bangalore | Jan 2018 – Feb 2020  
+- Assisted in designing security infrastructure for client networks  
+- Performed log analysis using Splunk and responded to security alerts  
+- Supported compliance initiatives for ISO 27001 and GDPR  
+
+Education  
+Bachelor of Technology in Information Technology  
+Visvesvaraya Technological University (VTU), 2013 – 2017  
+
+Projects  
+• Automated Firewall Policy Audit using Python  
+• Configured Honeypot Systems for Threat Intelligence  
+
+Languages  
+English, Hindi, Kannada

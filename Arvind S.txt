@@ -1,0 +1,137 @@
+Arvind S
+Jellypie03@gmail.com
+8861105375
+Bengaluru, India
+github.com/profitter261
+linkedin.com/in/arvind-s-99914a24a
+Profile
+Enthusiastic and motivated engineering student with a strong foundation in data science, analytics, and machine learning. Passionate about extracting insights from data, solving complex problems, and building innovative solutions. Seeking an entry-level role to apply my skills in data analysis, machine learning, and model deployment while gaining hands-on experience in a dynamic, data-driven environment
+Education
+Bachelor
+of
+engineering,
+ECE,
+NMIT
+74.3%
+09/2021 – 05/2025
+Bengaluru,
+India
+Higher
+secondary
+education,
+Narayana
+P.U
+college
+80.1%
+07/2019 – 07/2021
+Bengaluru,
+India
+Secondary
+Education,
+Sri
+chaitanya
+techno
+school
+65.5%
+06/2018 – 05/2019
+Bengaluru,
+India
+Skills
+Programming
+•
+Languages:- C/C++, python
+•
+Databases:- mySQL
+Theory
+•
+Operating systems, DBMS
+Data Science & Analytics
+•
+Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+•
+Machine Learning: Scikit-Learn
+•
+Statistical Analysis: SciPy
+•
+Data Visualization: Power BI, MS excel
+Tools/Technology
+•
+Simulation & Circuit Design: LTSpice, Cadence Virtuoso, MATLAB
+•
+Development & Prototyping: Tinkercad
+Full stack web development
+•
+front-end: HTML, CSS, Javascript
+•
+Web Frameworks: Flask, REST API
+Projects
+Emotion
+recognition
+using
+face
+detection,
+AI-based
+emotion
+detection
+model,
+developed
+in
+Python
+AI model for emotion detection is developed using TensorFlow (Keras API) as the deep learning framework and OpenCV for image processing, include NumPy for numerical computing, Matplotlib for visualization.
+Resume
+Screening
+App,
+development
+process
+of
+a
+powerful
+Resume
+Screening
+App
+using
+Python
+The app leverages the capabilities of Artificial Intelligence and Natural Language Processing to automate the resume screening and applicant evaluation process.
+Major
+Project,
+AI
+based
+optimisation
+of
+image
+rejection
+ratio
+in
+gilbert
+cell
+mixer
+•
+Data Collection & Simulation:-
+Conducted circuit simulations LTSpice to analyze mixer performance.
+•
+Machine Learning-Based Optimization:-
+Utilized Python (NumPy, SciPy, Scikit-Learn) to implement optimization algorithms.
+•
+Web development:-
+For web development, Flask was used as the backend framework to handle requests, process optimization data. The front-end was built with HTML, CSS, and JavaScript, ensuring a responsive and visually appealing UI.
+•
+Performance Evaluation & Improvement:-
+Verified improvements using MATLAB for signal analysis and spectrum visualization.
+Certificates
+Step by step Machine learning
+infosys springboard 2024
+Career essentials in data analysis
+Microsoft, Linkedin 2025
+Machine learning with tensorflow
+infosys springboard 2024
+Organisations
+IEEE
+|
+ECE
+|
+NMIT,
+volunteer
+NMITCON 2024
+Volunteered a session regarding a paper presentation event where participants came from various institutes
+Bengaluru,
+India
