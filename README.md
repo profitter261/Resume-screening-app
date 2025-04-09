@@ -21,3 +21,53 @@ What I Learned:
 4) Customizing UI with embedded HTML/CSS in Streamlit
 
 5) Handling text encoding issues in uploaded files
+
+This application streamlines the resume screening process by using machine learning to categorize resumes. It's built with a combination of Streamlit for the front-end, Flask for the backend API, and a machine learning model (as developed in the provided notebook) for resume classification.
+
+**Key Features:**
+
+* **Resume Upload:** Users can upload resumes through a user-friendly Streamlit interface.
+* **ML-Powered Categorization:** The uploaded resume is sent to a Flask API, where a pre-trained machine learning model classifies the resume into relevant categories (e.g., "Data Science," "Web Designing," "HR").
+* **Category Display:** The predicted category is displayed on the Streamlit UI.
+* **Efficient Screening:** This tool helps recruiters quickly sort and filter resumes, saving time and improving efficiency.
+
+**Technologies Used:**
+
+* **Streamlit:** For creating an interactive and easy-to-use web interface.
+* **Flask:** To build a RESTful API that handles resume processing and ML model prediction.
+* **Machine Learning:** A machine learning model (likely using libraries like scikit-learn) is used for classifying resumes into categories.  The model is trained on a dataset of resumes and their corresponding categories (as seen in the provided notebook).
+* **Python:** The entire application is developed in Python.
+
+**Workflow:**
+
+1.  **UI (Streamlit):**
+    * Users upload a resume file.
+    * The file is sent to the Flask API.
+    * The predicted category is received from the API and displayed.
+
+2.  **API (Flask):**
+    * Receives the resume file from Streamlit.
+    * Preprocesses the resume text (cleaning, vectorization using TF-IDF).
+    * Uses the pre-trained ML model to predict the category.
+    * Sends the predicted category back to Streamlit.
+
+**Machine Learning Model:**
+
+The machine learning model is trained to classify resumes into predefined categories.  Key steps in the model development include:
+
+* **Data Preprocessing:** Cleaning the resume text (removing URLs, special characters, etc.).
+* **Feature Extraction:** Converting the text into numerical features using TF-IDF.
+* **Model Training:** Training a classification model (e.g., SVC, Random Forest) on the training data.
+* **Model Evaluation:** Evaluating the model's performance on a test dataset.
+* **Model Deployment:** Saving the trained model for use in the Flask API.
+
+**UI Examples:**
+
+**1. Resume Upload UI:**
+![Home Page](images/architecture.png)
+
+**2. Resume with Predicted Category:**
+![Results](images/architecture.png)
+![Results](images/architecture.png)
+![Results](images/architecture.png)
+
