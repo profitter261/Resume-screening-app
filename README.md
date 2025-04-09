@@ -65,7 +65,7 @@ The machine learning model is trained to classify resumes into predefined catego
 
 **1. Resume Upload UI:**
 
-![Home Page](https://github.com/profitter261/Resume-screening-app/blob/main/Dashboard/Screenshot%202025-04-09%20232301.png)
+![Home Page](https://github.com/profitter261/Resume-screening-app/blob/main/Dashboard/Screenshot%202025-04-09%20232402.png?raw=true)
 
 **2. Resume with Predicted Category:**
 
