@@ -64,10 +64,10 @@ The machine learning model is trained to classify resumes into predefined catego
 **UI Examples:**
 
 **1. Resume Upload UI:**
-![Home Page](images/architecture.png)
+![Home Page](https://github.com/profitter261/Resume-screening-app/blob/main/Dashboard/Screenshot%202025-04-09%20232301.png)
 
 **2. Resume with Predicted Category:**
-![Results](images/architecture.png)
-![Results](images/architecture.png)
-![Results](images/architecture.png)
+![Results](https://github.com/profitter261/Resume-screening-app/blob/main/Dashboard/Screenshot%202025-04-09%20232328.png)
+![Results](https://github.com/profitter261/Resume-screening-app/blob/main/Dashboard/Screenshot%202025-04-09%20232343.png)
+![Results](https://github.com/profitter261/Resume-screening-app/blob/main/Dashboard/Screenshot%202025-04-09%20232402.png)
 
