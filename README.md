@@ -73,3 +73,6 @@ The machine learning model is trained to classify resumes into predefined catego
 ![Results](https://github.com/profitter261/Resume-screening-app/blob/main/Dashboard/Screenshot%202025-04-09%20232343.png)
 ![Results](https://github.com/profitter261/Resume-screening-app/blob/main/Dashboard/Screenshot%202025-04-09%20232301.png)
 
+## 📁 Dataset Source 
+- [Resume Dataset from Kaggle](https://www.kaggle.com/datasets/abdeltawabali/updatedresumedataset-csv)
+
